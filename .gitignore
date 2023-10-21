@@ -3,7 +3,6 @@ build/
 dist/
 .next/
 .nuxt/
-public/
 
 # Ignore Node.js modules
 node_modules/
