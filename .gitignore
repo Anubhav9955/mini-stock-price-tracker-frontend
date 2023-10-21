@@ -1,0 +1,16 @@
+# Ignore build and compiled files
+build/
+dist/
+.next/
+.nuxt/
+public/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore log files and any generated files
+.log
+
+# Ignore OS or editor-specific files
+.DS_Store
+.vscode/
